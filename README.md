@@ -4,7 +4,7 @@
 This project was carried out during an Erasmus exchange for the master’s course in Big Data.  
 The main idea was to simulate working with a large-scale environment. Even though the dataset itself was not enormous, we built the project in a way that remains scalable.  
 We used a virtual machine to simulate data ingestion (hypothetically streamlined — in practice, the CSV was uploaded to the VM).  
-The main tools applied were **Spark, Hadoop HDFS, MongoDB, and Scikit-learn**.
+The main tools applied were **Spark, Hadoop HDFS, MongoDB**.
 
 ## Accessing the Virtual Machine
 We connected to the VM via SSH using a private key provided for the course.  
@@ -37,3 +37,5 @@ During preprocessing, we concatenated the text fields for analysis.
 - **Hypothesis 4:** People with higher education identify less often with organized religions → MongoDB + MapReduce / Aggregation  
 
 The minimalistic presentation with the result is attached - "presentation".
+
+![Project Schema](schema.png)
