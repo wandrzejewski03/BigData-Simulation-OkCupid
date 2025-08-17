@@ -36,6 +36,7 @@ During preprocessing, we concatenated the text fields for analysis.
 - **Hypothesis 3:** Women mention wanting children more often than men → MongoDB + MapReduce  
 - **Hypothesis 4:** People with higher education identify less often with organized religions → MongoDB + MapReduce / Aggregation  
 
-The minimalistic presentation with the result is attached - "presentation".
+The minimalistic presentation with the result is attached - "OKCupid Profiles.pdf".
 
 ![Project Schema](schema.png)
+![Results](OKCupid Profiles.pdf)
